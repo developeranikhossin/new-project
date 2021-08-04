@@ -1,0 +1,176 @@
+*{padding: 0;margin: 0; box-sizing: border-box;}
+.fix{overflow: hidden;}
+.col-6{width: 50%;float: left;padding: 0 15px;}
+.col-12{width: 100%;float: left;padding: 0 15px;}
+.pt-70{padding-top: 70px;}
+.pb-70{padding-bottom: 70px;}
+body{
+	font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+h3{color: royalblue;}
+
+/* header-area start */
+
+.header-area {
+	background-image: url(img/top-banner.png);
+	height: 585px;
+	background-repeat: no-repeat;
+}
+.header-part{}
+.header-part h2 {
+	font-size: 54px;
+	color: brown;
+	margin-top: 84px;
+	margin-bottom: 31px;
+}
+.header-part h3 {
+	font-size: 33px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.header-part p {
+	color: red;
+	font-size: 17px;
+	margin-top: 30px;
+	margin-bottom: 67px;
+}
+.header-part a {
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 20px 20px;
+	background: red;
+	color: white;
+	border-radius: 5px;
+}
+.header-img{}
+.header-img img {
+	width: 100%;
+}
+
+/* header-area End */
+
+/*   dream-area  Start   */
+
+.dream-area {
+	background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-img{}
+.dream-img img {
+	width: 100%;
+	margin-left: -100px;
+}
+.dream-text{}
+.dream-text h2 {
+	color: red;
+	font-size: 58px;
+	margin-bottom: 32px;
+	margin-left: 60px;
+	margin-top: 85px;
+}
+.dream-text h3 {
+	margin-left: 60px;
+	font-size: 34px;
+	font-weight: 700;
+}
+.dream-text p {
+	margin-left: 60px;
+	font-size: 21px;
+	color: #696c5c;
+	font-weight: 600;
+	margin-top: 24px;
+	margin-bottom: 62px;
+}
+.dream-text a {
+	margin-left: 56px;
+	font-size: 20px;
+	font-weight: 800;
+	text-decoration: none;
+	padding: 20px 20px;
+	background: blue;
+	color: white;
+}
+
+/*   dream-area  End   */
+
+
+/*  experiences  strat  */
+
+.experiences{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experiences-text{}
+.experiences-text h2 {
+	margin-bottom: 58px;
+	font-size: 40px;
+	color: blue;
+	text-transform: uppercase;
+}
+
+.experiences-text-1 {
+	box-shadow: 10px 10px 40px blue;
+	padding: 20px 70px;
+}
+.experiences-text-1 h2 {
+	color: #ea840c;
+	font-size: 30px;
+	margin-bottom: 22px;
+	font-weight: 700;
+}
+.experiences-text-1 h4 {
+	color: blue;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+.experiences-text-1 p {
+	font-size: 23px;
+	color: #2a1c1e;
+	font-weight: 450;
+}
+
+.experiences-text-2 {
+	box-shadow: 10px 10px 40px blue;
+	padding: 20px 70px;
+}
+.experiences-text-2 h2 {
+	color: #ea840c;
+	font-size: 30px;
+	margin-bottom: 22px;
+	font-weight: 700;
+}
+.experiences-text-2 h4 {
+	color: blue;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+.experiences-text-2 p {
+	font-size: 23px;
+	color: #2a1c1e;
+	font-weight: 450;
+}
+
+/*  experiences  End  */
+
+/*  footer  start  */
+
+
+footer{
+    background: black;
+    padding: 30px 30px ;
+}
+footer h2{
+    color: white;
+    text-align: center;
+
+}
+
+/*  footer  End  */
+
